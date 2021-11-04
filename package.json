@@ -1,0 +1,16 @@
+{
+  "name": "basic-covid-certificate-viewer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cvs.js",
+  "scripts": {
+    "start": "node cvs.js"
+  },
+  "keywords": [],
+  "author": "Joao Trindade",
+  "license": "MIT",
+  "dependencies": {
+    "base45": "^3.0.0",
+    "cbor": "^8.0.2"
+  }
+}
